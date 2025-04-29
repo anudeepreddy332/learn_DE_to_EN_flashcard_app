@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# OS-specific files
+.DS_Store
+
+# IDE-specific files
+.idea/
+
+# CSVs that change during runtime
+data/words_to_learn.csv
